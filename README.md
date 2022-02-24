@@ -1,5 +1,5 @@
 # Index
-Welcome to the System Engineering team!
+Welcome to the System Modelling team!
 
 This README lists all the wonderful tools that have been developed to make your life easier.
 
