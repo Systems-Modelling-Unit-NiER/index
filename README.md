@@ -5,7 +5,7 @@ This README lists all the wonderful tools that have been developed to make your 
 
 
 ## General
-These are general purrpose tools and are not team specific
+These are general purpose tools and are not team specific
 
 - [Acronyms-Word](https://github.com/Systems-Modelling-Unit-NiER/Acronyms-Word), to extract all acronyms in a word file
 
