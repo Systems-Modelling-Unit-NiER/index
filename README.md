@@ -17,6 +17,7 @@ These tools are specific for CAE analyses
 - [EM-interpolator](https://github.com/Systems-Modelling-Unit-NiER/EM-Interpolator), interpolation of EM loads on mechanical mesh
 - [DAF-calculation](https://github.com/Systems-Modelling-Unit-NiER/DAF-calculation), computation of DAF from force/moments time histories
 - [load-transient-EM](https://github.com/Systems-Modelling-Unit-NiER/load-transient-EM), load all EM forces at each step for a transient analysis
+- [preprocess-piping](https://github.com/Systems-Modelling-Unit-NiER/preprocess-piping), suite of helper scripts to pre-process complex piping systems.
 
 ### Post-processing
 - [ansyspp](https://github.com/Systems-Modelling-Unit-NiER/ansyspp), a python package for ULVM stress maps of recombined loads
